@@ -34,7 +34,7 @@ I am a proactive and responsible person with strong teamwork skills. I enjoy lea
 
 ## 📂 Main Projects
 
-**🔌 IoT Smart Home App (TFG) (In Progress)**
+**🔌 IoT Smart Home App (TFG) **
 Mobile application built with Flutter + Supabase for:
 
 * Device control (on/off, automation)
